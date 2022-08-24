@@ -3,6 +3,7 @@
 This is my own personal resource compilation for shaders in Unity. It includes shader templates and a resource/documentation compilation.
 
 ## General
+- [Repository of Built-In Shaders](https://github.com/chsxf/unity-built-in-shaders)
 - [Writing Surface Shaders](https://docs.unity3d.com/Manual/SL-SurfaceShaders.html)
 - [Cyanilux Shader Resource List](https://www.cyanilux.com/resources/?filter=hlsl)
 
