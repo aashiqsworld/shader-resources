@@ -1,6 +1,6 @@
 # Aashiq's Shader Resources
 
-This is my own personal resource compilation for shaders in Unity. It includes shader templates and a resource/documentation compilation.
+This is my own personal resource compilation for shaders in Unity. It includes shader templates, resources and documentation.
 
 ## General
 - [Writing Surface Shaders](https://docs.unity3d.com/Manual/SL-SurfaceShaders.html)
