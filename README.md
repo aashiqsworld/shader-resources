@@ -1,6 +1,6 @@
 # Aashiq's Shader Resources
 
-This is my own personal resource compilation for shaders in Unity. It includes shader templates and a resource/documentation compilation.
+This is my own personal resource compilation for shaders in Unity. It includes shader templates, resources and documentation.
 
 ## General
 - [Repository of Built-In Shaders](https://github.com/chsxf/unity-built-in-shaders)
